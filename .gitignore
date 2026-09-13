@@ -1,2 +1,8 @@
 bird.csv
 timeline.fcpxml
+Include
+Lib
+Scripts
+*.pt
+pyvenv.cfg
+share
