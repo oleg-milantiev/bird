@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+    <resources>
+        <format id="r-format"
+                name="FFVideoFormat3840x2160"
+                frameDuration="1280497/76230000s"
+                width="3840"
+                height="2160"
+                colorSpace="1-1-1 (Rec. 709)"/>
+            <asset id="r1" name="2026_04_16_024321.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_04_16_024321.mp4" duration="444617/31250s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_04_16_024321.mp4"/></asset>
+            <asset id="r2" name="2026_04_16_024345.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_04_16_024345.mp4" duration="20907611/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_04_16_024345.mp4"/></asset>
+            <asset id="r3" name="2026_04_29_061903.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_04_29_061903.mp4" duration="14203889/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_04_29_061903.mp4"/></asset>
+            <asset id="r4" name="2026_05_14_064839.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_064839.mp4" duration="1033761/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_064839.mp4"/></asset>
+            <asset id="r5" name="2026_05_14_064851.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_064851.mp4" duration="8527811/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_064851.mp4"/></asset>
+            <asset id="r6" name="2026_05_14_064923.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_064923.mp4" duration="10636011/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_064923.mp4"/></asset>
+            <asset id="r7" name="2026_05_14_065006.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_065006.mp4" duration="14728289/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_065006.mp4"/></asset>
+            <asset id="r8" name="2026_05_14_065024.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_065024.mp4" duration="22713/2500s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_065024.mp4"/></asset>
+            <asset id="r9" name="2026_05_14_065040.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_065040.mp4" duration="61319/2500s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_065040.mp4"/></asset>
+            <asset id="r10" name="2026_05_14_065118.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_14_065118.mp4" duration="20189689/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_14_065118.mp4"/></asset>
+            <asset id="r11" name="2026_05_17_134949.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_17_134949.mp4" duration="16634667/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_17_134949.mp4"/></asset>
+            <asset id="r12" name="2026_05_17_145149.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_05_17_145149.mp4" duration="5168061/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_05_17_145149.mp4"/></asset>
+            <asset id="r13" name="2026_07_17_095237424.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_07_17_095237424.mp4" duration="125491/2500s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_07_17_095237424.mp4"/></asset>
+            <asset id="r14" name="2026_07_20_112816.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_07_20_112816.mp4" duration="33697589/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_07_20_112816.mp4"/></asset>
+            <asset id="r15" name="2026_07_21_060123.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_07_21_060123.mp4" duration="4099711/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_07_21_060123.mp4"/></asset>
+            <asset id="r16" name="2026_07_21_060331379.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_07_21_060331379.mp4" duration="131708089/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_07_21_060331379.mp4"/></asset>
+            <asset id="r17" name="2026_07_25_082141.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_07_25_082141.mp4" duration="824441/2500s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_07_25_082141.mp4"/></asset>
+            <asset id="r18" name="2026_08_13_061402235.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_08_13_061402235.mp4" duration="142949/10000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_08_13_061402235.mp4"/></asset>
+            <asset id="r19" name="2026_08_13_061427923.mp4" uid="C:\VIDEO\2026-07 Beeater\2026_08_13_061427923.mp4" duration="148200667/1000000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/2026_08_13_061427923.mp4"/></asset>
+            <asset id="r20" name="video_2026-07-21_21-01-55.mp4" uid="C:\VIDEO\2026-07 Beeater\video_2026-07-21_21-01-55.mp4" duration="5168011/500000s" hasVideo="1" hasAudio="1"><media-rep kind="original-media" src="file:///C:/VIDEO/2026-07%20Beeater/video_2026-07-21_21-01-55.mp4"/></asset>
+    </resources>
+    <library>
+        <event name="Bird detections">
+            <project name="Bird detections">
+                <sequence format="r-format"
+                          duration="1329841299310929864186408271/3566335055526190876500000s"
+                          tcStart="0s"
+                          tcFormat="NDF"
+                          audioLayout="stereo"
+                          audioRate="48k">
+                    <spine>
+                        <asset-clip name="2026_04_16_024321.mp4 [90-422]" ref="r1" offset="0s" start="0s" duration="444617/31250s" enabled="1"/>
+                        <asset-clip name="2026_04_16_024345.mp4 [1-1241]" ref="r2" offset="444617/31250s" start="0s" duration="20907611/1000000s" enabled="1"/>
+                        <asset-clip name="2026_04_29_061903.mp4 [416-488]" ref="r3" offset="7027071/200000s" start="474392/95175s" duration="7957591/1522800s" enabled="1"/>
+                        <asset-clip name="2026_05_14_064839.mp4 [0-75]" ref="r4" offset="30730854797/761400000s" start="0s" duration="1033761/500000s" enabled="1"/>
+                        <asset-clip name="2026_05_14_064851.mp4 [0-1022]" ref="r5" offset="161525330239/3807000000s" start="0s" duration="8527811/500000s" enabled="1"/>
+                        <asset-clip name="2026_05_14_064923.mp4 [0-636]" ref="r6" offset="226456083193/3807000000s" start="0s" duration="10636011/1000000s" enabled="1"/>
+                        <asset-clip name="2026_05_14_065006.mp4 [0-878]" ref="r7" offset="26694737707/380700000s" start="0s" duration="14728289/1000000s" enabled="1"/>
+                        <asset-clip name="2026_05_14_065024.mp4 [0-544]" ref="r8" offset="323017973293/3807000000s" start="0s" duration="22713/2500s" enabled="1"/>
+                        <asset-clip name="2026_05_14_065040.mp4 [0-610]" ref="r9" offset="357605329693/3807000000s" start="0s" duration="61319/2500s" enabled="1"/>
+                        <asset-clip name="2026_05_14_065118.mp4 [1-1210]" ref="r10" offset="450981902893/3807000000s" start="0s" duration="20189689/1000000s" enabled="1"/>
+                        <asset-clip name="2026_05_17_134949.mp4 [755-985]" ref="r11" offset="131961012229/951750000s" start="397019/36975s" duration="8721912493/1479000000s" enabled="1"/>
+                        <asset-clip name="2026_05_17_145149.mp4 [0-619]" ref="r12" offset="54259044613841/375370200000s" start="0s" duration="5168061/500000s" enabled="1"/>
+                        <asset-clip name="2026_07_17_095237424.mp4 [1032-1111]" ref="r13" offset="290694583981027/1876851000000s" start="5082363/156875s" duration="627482/94125s" enabled="1"/>
+                        <asset-clip name="2026_07_20_112816.mp4 [468-514]" ref="r14" offset="76104847830389777/471089601000000s" start="34371179/2527500s" duration="506500801/90990000s" enabled="1"/>
+                        <asset-clip name="2026_07_21_060123.mp4 [0-50]" ref="r15" offset="26531064312357171149/158757195537000000s" start="0s" duration="6826279/1845000s" enabled="1"/>
+                        <asset-clip name="2026_07_21_060331379.mp4 [1589-1688]" ref="r16" offset="1111856323695379946509/6509045017017000000s" start="566392931/11109375s" duration="3259216/444375s" enabled="1"/>
+                        <asset-clip name="2026_07_21_060331379.mp4 [2035-2072]" ref="r16" offset="91608095556678496427011/514214556344343000000s" start="146320853/2221875s" duration="58513802/11109375s" enabled="1"/>
+                        <asset-clip name="2026_07_25_082141.mp4 [6588-6716]" ref="r17" offset="3772659885224599588603/20568582253773720000s" start="448495609/2061250s" duration="68430963/8245000s" enabled="1"/>
+                        <asset-clip name="2026_07_25_082141.mp4 [6971-6997]" ref="r17" offset="382507160527614937079107/1995152478616050840000s" start="5697708211/24735000s" duration="40399969/8245000s" enabled="1"/>
+                        <asset-clip name="2026_07_25_082141.mp4 [8083-8182]" ref="r17" offset="78456655835938066053503/399030495723210168000s" start="6614486603/24735000s" duration="1813841/247350s" enabled="1"/>
+                        <asset-clip name="2026_07_25_082141.mp4 [8408-8433]" ref="r17" offset="81382784291135491783583/399030495723210168000s" start="860303741/3091875s" duration="60187733/12367500s" enabled="1"/>
+                        <asset-clip name="2026_08_13_061402235.mp4 [261-306]" ref="r18" offset="416623539784137622853419/1995152478616050840000s" start="9576563/1430000s" duration="11867827/2145000s" enabled="1"/>
+                        <asset-clip name="2026_08_13_061427923.mp4 [0-4437]" ref="r19" offset="61155707819454112787527229/285306804442095270120000s" start="0s" duration="148200667/1000000s" enabled="1"/>
+                        <asset-clip name="video_2026-07-21_21-01-55.mp4 [0-619]" ref="r20" offset="323244895429409983427676247/891583763881547719125000s" start="0s" duration="5168011/500000s" enabled="1"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
